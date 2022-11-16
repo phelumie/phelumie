@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunday Ajisegiri</h1>
-<h3 align="center">A passionate java engineer with significant experience coding with a variety of programming languages, steering projects, modern tools and technologies. Familiarity with designing distributed systems and developing scalable software, database engineering, caching, problem solving skills, understanding of owasp top 10 security vulnerabilities , proven track record of proper documentation for future maintenance and upgrades etc. </h3>
+<h3 align="center">A passionate java engineer with significant experience coding with a variety of programming languages, steering projects, modern tools and technologies. </h3>
 
 - 🔭 I’m currently working on **Fintech banking system**
 
