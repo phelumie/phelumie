@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Ajisegiris1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JF5knjNlc2MovAQSbgZXUBj-p8NsSker/view?usp=drivesdk](https://drive.google.com/file/d/1JF5knjNlc2MovAQSbgZXUBj-p8NsSker/view?usp=drivesdk)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1noraSOH-FGq8mjz3AYl_LDmmciHbJM3o/edit?usp=share_link&ouid=100004745045613467214&rtpof=true&sd=true](https://drive.google.com/file/d/1JF5knjNlc2MovAQSbgZXUBj-p8NsSker/view?usp=drivesdk)
 
 - ⚡ Fun fact **Debugging is twice as hard as writing the code in the first place**
 
