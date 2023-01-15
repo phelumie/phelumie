@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Ajisegiris1@gmail.com**
 
-- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1q3f8RZJghhktb4r4g5P27s-fmgxJdijz/view?usp=share_link)
+- 📄 Checkout my resume? [click here](https://drive.google.com/file/d/10P0wBWQxa5AGV2-T5oxH55bALDRJOyMD/view?usp=share_link)
 
 - ⚡ Fun fact **Debugging is twice as hard as writing the code in the first place**
 
