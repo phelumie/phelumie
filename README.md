@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sunday Ajisegiri</h1>
 <h3 align="center">A passionate java engineer with significant experience coding with a variety of programming languages, steering projects, modern tools and technologies. </h3>
 
-- 🔭 I’m currently working on **Fintech banking system**
+- 🔭 I’m currently working on **Building the backend of an uber like project **
 
 - 👯 I’m looking to collaborate on **any project ideas**
 
